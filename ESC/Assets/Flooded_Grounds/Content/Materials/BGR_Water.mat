@@ -101,7 +101,7 @@ Material:
     - _Emis: 0.05
     - _Fresnel: 1
     - _FresnelScale: 0.75
-    - _GerstnerIntensity: 1
+    - _GerstnerIntensity: 0
     - _Glossiness: 2.1641788
     - _InvertValue: 0
     - _Opacity: 0.75
@@ -134,12 +134,12 @@ Material:
     - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
     - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
     - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
-    - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
-    - _BumpDirection: {r: 1, g: 1, b: -1, a: 1}
-    - _BumpTiling: {r: 1, g: 1, b: -2, a: 3}
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BumpDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _BumpTiling: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.7861892, g: 0.791, b: 0.62569845, a: 1}
     - _ColorTint: {r: 0.74509805, g: 0.7023594, b: 0.5727028, a: 1}
-    - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
+    - _DistortParams: {r: 0, g: 0, b: 0.1, a: 0}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
     - _Foam: {r: 0.1, g: 0.375, b: 0, a: 0}
     - _GAmplitude: {r: 0.3, g: 0.35, b: 0.25, a: 0.25}
@@ -149,10 +149,10 @@ Material:
     - _GSpeed: {r: 1.2, g: 1.375, b: 1.1, a: 1.5}
     - _GSteepness: {r: 1, g: 1, b: 1, a: 1}
     - _HorizonColor: {r: 0.172, g: 0.463, b: 0.435, a: 1}
-    - _InvFadeParemeter: {r: 0.15, g: 0.15, b: 0.5, a: 1}
+    - _InvFadeParemeter: {r: 0.001, g: 0, b: 0, a: 0}
     - _MainColor: {r: 0.56618226, g: 0.6117647, b: 0.56872165, a: 0}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
-    - _ReflectionColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
+    - _ReflectionColor: {r: 0, g: 0, b: 0, a: 0}
     - _ReflectionTint: {r: 0.20392157, g: 0.1646609, b: 0.09116493, a: 1}
     - _RefrColor: {r: 0.24913493, g: 0.35294116, b: 0.24985082, a: 1}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
@@ -161,6 +161,6 @@ Material:
     - _SpecColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecularColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
     - _WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
-    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
+    - _WorldLightDir: {r: -0.030375138, g: -0.20139083, b: -0.97903997, a: 0}
     - _fogColor: {r: 0.29211843, g: 0.4276772, b: 0.5686275, a: 1}
   m_BuildTextureStacks: []
